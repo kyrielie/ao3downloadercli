@@ -6,6 +6,11 @@ PLEASE GO READ the ao3downloader README first before using this extension.
 
 ## Quick Start
 
+I recommend cloning this repo and testing with that so nothing in your existing ao3downloader directory breaks.
+`git clone https://github.com/kyrielie/ao3downloader`
+
+I personally modified my existing ao3downloader directory by adding `ao3downloader/ao3downloader/cli/cli/cli.py` and replacing `pyproject.toml`.
+
 Use `python cli.py` to download fics. (full or relative file path)
 
 Or install using pip:
