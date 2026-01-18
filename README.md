@@ -53,7 +53,7 @@ options:
   --no-login            Disable login (default: enabled)
   ```
 
-For some reason it was easiest for me to write code that expects multiple formats in the form: `-f epub -f html -f mobi` etc.
+For some reason it was easiest for me to write code that expects multiple formats in the form: `-f epub -f html -f mobi` etc. But also it's not working right now idk why :sob:, so only one format at a time.
 
 So like you could also put multiple search / paged links interspaced with work links in your text file and number of pages you want to download from each, but why would you do that. I do not recommend doing that.
 
