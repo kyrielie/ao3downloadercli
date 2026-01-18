@@ -2,7 +2,12 @@
 
 This is a fork to Nianeyna's [Archive of Our Own](https://archiveofourown.org/) fanfiction downloading program [ao3downloader](https://github.com/nianeyna/ao3downloader). The fork creates a command line argument style interface for using ao3downloader and is a archive of how I personally use ao3downloader.
 
+## WARNINGS
+
 PLEASE GO READ the ao3downloader README first before using this extension.
+
+Beta software: may contain bugs or unintended behavior. Use at your own risk. Feedback and bug reports are greatly appreciated.
+
 
 ## Quick Start
 
