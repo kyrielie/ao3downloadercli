@@ -16,6 +16,8 @@ I recommend cloning this repo and testing with that so nothing in your existing 
 
 I personally modified my existing ao3downloader directory by adding `ao3downloader/ao3downloader/cli/cli/cli.py` and replacing `pyproject.toml`.
 
+Note to self: just add the one line to the pyproject.toml and `pipx install -e . --force`.
+
 Use `python cli.py` to download fics. (full or relative file path)
 
 Or install using pip:
