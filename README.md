@@ -1,3 +1,24 @@
+# ao3downloadercli
+
+Basically, download fanfiction by typing out the whole command at once instead of step by step using ao3downloader. 
+
+Quick install:
+```zsh
+cd pathyouwanttoputao3downloadercli
+git clone https://github.com/kyrielie/ao3downloadercli
+cd ao3downloadercli
+chmod +x ao3downloader-mac-linux.sh
+./ao3downloader-mac-linux.sh
+pip install -e .
+```
+
+Quick use:
+run ao3downloader once and login
+```zsh
+ao3downloader
+ao3downloadercli -f epub "https://archiveofourown.org/works/123456"
+```
+
 ## What is this?
 
 This is a fork to Nianeyna's [Archive of Our Own](https://archiveofourown.org/) fanfiction downloading program [ao3downloader](https://github.com/nianeyna/ao3downloader). The fork creates a command line argument style interface for using ao3downloader and is a archive of how I personally use ao3downloader.
